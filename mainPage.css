@@ -65,10 +65,10 @@ a{
 #second{
     border: 2px solid black;
     padding: 1%;
-    box-shadow: 8px 8px 8px greenyellow;
+    box-shadow: 8px 8px 8px green;
 }
 
 #second:hover{
-    background-color: greenyellow;
+    background-color: green;
     box-shadow: 8px 8px 8px black;
 }
