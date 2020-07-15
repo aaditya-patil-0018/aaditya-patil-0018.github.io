@@ -5,7 +5,8 @@ body{
 }
 
 ::selection {
-  background-color: cyan;
+  background-color: black;
+  color: red;
 }
 
 header{
