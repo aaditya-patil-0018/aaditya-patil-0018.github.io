@@ -1,12 +1,12 @@
+::selection {
+  background-color: lightgreen;
+  color: black;
+}
+
 body{
     margin-left: 5%;
     margin-right: 5%;
     font-family: 'Playball', cursive;
-}
-
-::selection {
-  background-color: black;
-  color: red;
 }
 
 header{
