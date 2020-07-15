@@ -68,7 +68,7 @@ a{
     box-shadow: 8px 8px 8px greenyellow;
 }
 
-#first:hover{
+#second:hover{
     background-color: greenyellow;
     box-shadow: 8px 8px 8px black;
 }
