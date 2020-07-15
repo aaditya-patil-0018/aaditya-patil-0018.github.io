@@ -66,6 +66,7 @@ a{
     border: 2px solid black;
     padding: 1%;
     box-shadow: 8px 8px 8px green;
+    margin-top: 2px;
 }
 
 #blog2:hover{
