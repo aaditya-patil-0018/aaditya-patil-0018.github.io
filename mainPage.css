@@ -65,11 +65,10 @@ a{
 #blog2{
     border: 2px solid black;
     padding: 1%;
-    box-shadow: 8px 8px 8px yellowgreen;
-    margin-top: 2px;
+    box-shadow: 8px 8px 8px greenyellow;
 }
 
 #blog2:hover{
-    background-color: yellowgreen;
+    background-color: greenyellow;
     box-shadow: 8px 8px 8px black;
 }
