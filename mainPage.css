@@ -4,6 +4,10 @@ body{
     font-family: 'Playball', cursive;
 }
 
+::selection {
+  background-color: cyan;
+}
+
 header{
     text-align: center;
     font-size: 20px;
