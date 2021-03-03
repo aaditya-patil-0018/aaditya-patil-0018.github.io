@@ -71,3 +71,14 @@ a{
     background-color: greenyellow;
     box-shadow: 8px 8px 8px black;
 }
+
+#blog3{
+    border: 2px solid black;
+    padding: 1%;
+    box-shadow: 8px 8px 8px red;
+}
+
+#blog3:hover{
+    background-color: red;
+    box-shadow: 8px 8px 8px black;
+}
